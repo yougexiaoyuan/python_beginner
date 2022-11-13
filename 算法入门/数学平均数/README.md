@@ -52,3 +52,16 @@ print(mode)
 ![image.png](https://cdn.nlark.com/yuque/0/2022/png/209450/1668306101330-6c8aa70a-2e8f-4887-875f-de2882fb7add.png#averageHue=%239be0e0&clientId=u31a439f6-de8f-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=u54a0f1fc&margin=%5Bobject%20Object%5D&name=image.png&originHeight=787&originWidth=1280&originalType=url&ratio=1&rotation=0&showTitle=false&size=1144964&status=done&style=none&taskId=ud068f9bd-67fb-47d2-b2f6-8868eb10f84&title=)<br />再次感受到了数学的博大精深，同时你是否发现数学中的一些问题，可以用编程很好的实现求值。python目前是对数学算法支持最好的，有着庞大的类库，如果你以后要学习机器学习，大数据，一定要好好理解这个初级的代码哦。<br />试着用代码实现一起其他的数学问题......<br />![结尾LOGO卡通版.png](https://cdn.nlark.com/yuque/0/2022/png/209450/1668306167002-84458c68-d551-4f07-a5c8-7f411cd3d217.png#averageHue=%23525252&clientId=u31a439f6-de8f-4&crop=0&crop=0&crop=1&crop=1&from=drop&id=uf3105d26&margin=%5Bobject%20Object%5D&name=%E7%BB%93%E5%B0%BELOGO%E5%8D%A1%E9%80%9A%E7%89%88.png&originHeight=1080&originWidth=1920&originalType=binary&ratio=1&rotation=0&showTitle=false&size=68002&status=done&style=none&taskId=ua432adbe-e604-4c6c-a165-9a5937e8eed&title=)
 
 
+****************************************************************************
+<b>全网可搜：小院里的霍大侠， 免费获取简单易懂的实战编程案例。编程/就业/副业/创业/资源。</b>
+
+私微信：huodaxia_xfeater
+
+二维码： http://www.yougexiaoyuan.com/images/weixin_huodaxia.jpg
+
+公众号：有个小院（微信公众号：yougexiaoyuan）
+
+github：yougexiaoyuan (视频源码免费获取)
+****************************************************************************
+
+（部分素材来源于互联网，如有保护请联系作者）
