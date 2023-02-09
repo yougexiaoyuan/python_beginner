@@ -1,0 +1,10 @@
+# 下载库依赖
+# pip install requirements.txt
+    pandas
+    matplotlib
+    bs4
+    requests
+    xlwings
+
+# 安装库依赖的语句
+pip --default-timeout=100 install 库名称 -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com 
